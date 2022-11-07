@@ -10,7 +10,7 @@ This repo contains my work for the competition 25 Days of DAX hosted by [Curbal]
 * Ruth (owner of Curbal) did a great job. These were fantastic problems.
 * The problems were focused on creating cards.
 * There was no use of Power Query or any graphics.
-
+* You can follow Ruth on Twitter at [Ruth Pozuelo Mtnez](https://twitter.com/ruthpozuelo])
 ## Requirements and Dependencies
 
 Purely a Power BI project.
