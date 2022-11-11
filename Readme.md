@@ -11,6 +11,14 @@ This repo contains my work for the competition 25 Days of DAX hosted by [Curbal]
 * The problems were focused on creating cards.
 * There was no use of Power Query or any graphics.
 * You can follow Ruth on Twitter at [Ruth Pozuelo Mtnez](https://twitter.com/ruthpozuelo])
+
+The problems are given in the table below.
+
+![Problems](Images/Problem.png)
+
+The solutions are shown here.
+
+![Solutions](Images/solutions.png)
 ## Requirements and Dependencies
 
 Purely a Power BI project.
